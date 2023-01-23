@@ -209,28 +209,6 @@ Long Butterfly with Calls
 Long Butterfly with Put  
 Protective Collar
 
-# List of Asset Classes for Protection Against Inflation    
-#### Description: Inflation is a rise in prices, which can be translated as the decline of purchasing power over time.  Inflation measures the average price level of a basket of goods and services in an economy, but increases in prices over a specified period of time. Therefore, it is important to find the right strategies and investments to hedge against inflation because a specific amount of currency will be able to buy less than before.  
-#### List of investing against inflation:  
-:large_blue_diamond:   
-Gold  
-commodities  
-60/40 Stock/Bond Portoflio  
-Real Estate Investment Trusts (REITs)   
-S&P 500    
-Real Estate Income   
-Bloomberg Aggregate Bond Index   
-Leveraged Loans   
-Treasury inflation-protected securities (TIPS)  
-
-# 👋 Have you enjoyed learning "Stock Analysis for Quant" and want to support me?  
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)
-
-## Credits:
-### Developed by Tin Hang and other contributors (sharing knowledge) from schools, books, and blogs.
-### Creators who creates programming libraries for people to use.  
-
 ### Links to research paper for quant:  
 https://www.researchgate.net (European Social networking site for scientists and researchers to share papers)  
 https://www.academia.edu/ (Academics and Researchers to share educational papers from all over the worlds)  
