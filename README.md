@@ -8,56 +8,72 @@
 | Stock Analysis in Tableau | [Tableau](https://github.com/owini/quantitative-stock-analysis/tree/master/Tableau_Stock)|
 
 # Stock Analysis for Quants  
-### Description:  
-#### This is a Stock Analysis project in Excel, Tableau, Power BI, Matlab, Python, R, and tableau language with different types of analysis such as data analysis, technical analysis, fundamental analysis, quantitative analysis, candlestick patterns, and different types of trading strategies. Learn about stocks, options, bonds, mutual funds, and ETF (Exchange-traded funds). In addition, this is for quantitative researching and analyzing in trading and investment. Quantitative analysis (QA) is a technique that use mathematics and statistical modeling, measurement, and research for understanding financial behaviors. Many different types of technical indicators and stock strategies in Excel, tableau, Power BI, Matlab, Python, and R language. Using time series, forecasting, machine learning, and deep learning for this research project in different type of programming languages.  :chart_with_upwards_trend: :chart_with_downwards_trend:
+
+This is a Stock Analysis project in Excel, Tableau, Power BI, Matlab, Python, R, and tableau language with different types of analysis such as data analysis, technical analysis, fundamental analysis, quantitative analysis, candlestick patterns, and different types of trading strategies. Learn about stocks, options, bonds, mutual funds, and ETF (Exchange-traded funds). In addition, this is for quantitative researching and analyzing in trading and investment. Quantitative analysis (QA) is a technique that use mathematics and statistical modeling, measurement, and research for understanding financial behaviors. Many different types of technical indicators and stock strategies in Excel, tableau, Power BI, Matlab, Python, and R language. Using time series, forecasting, machine learning, and deep learning for this research project in different type of programming languages.  :chart_with_upwards_trend: :chart_with_downwards_trend:
 
 ### What is the stock market?  
-#### Stock market or equity market is primarily known for trading stocks or equities, other financial securities such as exchange traded funds (ETF), corporate bonds and derivatives based on stocks, commodities, currencies, and bonds.  
+
+Stock market or equity market is primarily known for trading stocks or equities, other financial securities such as exchange traded funds (ETF), corporate bonds and derivatives based on stocks, commodities, currencies, and bonds.  
 
 ### What are U.S. stocks and non-U.S. stocks?  
-#### U.S. equities are companies that trade on the U.S. stock exchange.  Non-U.S. equities are cross-listed with their shares on a U.S. exchange. As a result, many international companies elect to have their stock trade on a U.S. stock exchange. For example, a foreign company decides to list their stock on a U.S. stock exchange, they have to decide whether to elect to be treated as a "foreign private issuer" under U.S. securities laws. However, foreign private issuers are subject to different reporting and regulatory requirements than a U.S. company.  
+
+U.S. equities are companies that trade on the U.S. stock exchange.  Non-U.S. equities are cross-listed with their shares on a U.S. exchange. As a result, many international companies elect to have their stock trade on a U.S. stock exchange. For example, a foreign company decides to list their stock on a U.S. stock exchange, they have to decide whether to elect to be treated as a "foreign private issuer" under U.S. securities laws. However, foreign private issuers are subject to different reporting and regulatory requirements than a U.S. company.  
 
 ### What are stocks?  
-#### A stock is an investment that represent a share or partial ownership of a company. First, a private company first sells shares of stock to the public, this process is known as an initial public offering (IPO). A public company is a corporation whose ownership is distributed amongst general public shareholders through publicly-traded stock shares. Investors buy stocks to earn a return on their investment. Stocks are one of the best way to build up capital or wealth. Stock is a low and high risk investment.   
+
+A stock is an investment that represent a share or partial ownership of a company. First, a private company first sells shares of stock to the public, this process is known as an initial public offering (IPO). A public company is a corporation whose ownership is distributed amongst general public shareholders through publicly-traded stock shares. Investors buy stocks to earn a return on their investment. Stocks are one of the best way to build up capital or wealth. Stock is a low and high risk investment.   
 
 ### What are bonds?  
-#### Bonds is a fixed income instrument that represents a loan made by an investor to a borrower such as corporate or governmental.  Owner of bonds are the debt holders, or creditors of the issuer. Bonds are tax-free, secured, redeemable and non-convertible in nature.  
+
+Bonds is a fixed income instrument that represents a loan made by an investor to a borrower such as corporate or governmental.  Owner of bonds are the debt holders, or creditors of the issuer. Bonds are tax-free, secured, redeemable and non-convertible in nature.  
 
 ### What is real estate?  
-#### Real estate is considered to be its own asset class and one that should be at least a part of a well-diversified portfolio. Real estate investment is a financial strategy that uses the management, ownership, purchase, rental, and/or sale of property for profit.   
+
+Real estate is considered to be its own asset class and one that should be at least a part of a well-diversified portfolio. Real estate investment is a financial strategy that uses the management, ownership, purchase, rental, and/or sale of property for profit.   
 
 ### What is private equity?
-#### Private equity is investment that is organized as limited partnerships. It can buy and restructure companies that are not publicly traded. Private equity consists of capital that is not listed on a public exchange. Private equity is composed of funds and investors that directly invest in private companies, or that engage in buyouts of public companies, resulting in the delisting of public equity. Invest in private equity is direct investment and seek out a private equity firm to investment with them.  Invest in exchange-traded funds, or ETFs because they are built to track the performance of private equity firms.     
+
+Private equity is investment that is organized as limited partnerships. It can buy and restructure companies that are not publicly traded. Private equity consists of capital that is not listed on a public exchange. Private equity is composed of funds and investors that directly invest in private companies, or that engage in buyouts of public companies, resulting in the delisting of public equity. Invest in private equity is direct investment and seek out a private equity firm to investment with them.  Invest in exchange-traded funds, or ETFs because they are built to track the performance of private equity firms.     
 
 ### What is fixed income?
-#### Fixed income is an investment approach focused on preservation of capital and income. Fixed income includes investments like government and corporate bonds, CDs and money market funds. Fixed income can offer a steady stream of income with less risk than stocks.   
+
+Fixed income is an investment approach focused on preservation of capital and income. Fixed income includes investments like government and corporate bonds, CDs and money market funds. Fixed income can offer a steady stream of income with less risk than stocks.   
 
 ### What is global equity fund?
-#### A global equity fund is sub-category of funds on the stock funds side of the ledger. A global equity fund has the latitude to buy shares of companies from any country including the United States. Global equity fund will keep a certain portion of its assets invested in U.S. stocks and the balance invested in international stocks.  
+
+A global equity fund is sub-category of funds on the stock funds side of the ledger. A global equity fund has the latitude to buy shares of companies from any country including the United States. Global equity fund will keep a certain portion of its assets invested in U.S. stocks and the balance invested in international stocks.  
 
 ### What is inflation-indexed securities?
-#### Inflation-indexed securities guarantee a return that's greater than inflation or a return higher than the rate of inflation if it is held to maturity. The inflation-indexed security helps protect an investor's returns from the erosion of inflation, guaranteeing a real return. There are many different types of inflation-indexed assets such as Consumer Price Index (CPI), inflation-indexed bonds, and Treasury Inflation-Protected Securities.  
+
+Inflation-indexed securities guarantee a return that's greater than inflation or a return higher than the rate of inflation if it is held to maturity. The inflation-indexed security helps protect an investor's returns from the erosion of inflation, guaranteeing a real return. There are many different types of inflation-indexed assets such as Consumer Price Index (CPI), inflation-indexed bonds, and Treasury Inflation-Protected Securities.  
 
 ### What are options?  
-#### An pption is a contract to buy or sell a specific financial product known as the option's underlying instrument or underlying interest.  Also, options are contracts that gives the owner, the holder, the right, but not the obligation, to buy or sell an underlying asset or instrument at a specified strike price prior to or on a specified date, depending on the form of the option. Options is a high risk investment.  
+
+An pption is a contract to buy or sell a specific financial product known as the option's underlying instrument or underlying interest.  Also, options are contracts that gives the owner, the holder, the right, but not the obligation, to buy or sell an underlying asset or instrument at a specified strike price prior to or on a specified date, depending on the form of the option. Options is a high risk investment.  
 
 ### What is an Index fund?  
-#### Index fund is a mutual fund or exchange-traded fund that are made up of stocks or companies performance and performance of a market index such as the S&P 500. Index funds are funds that can track specified basked of underlying investment and passively manaaged with lower fees than actively managed funds becausse they often generate higher investment returns and well-diversifed investments.  
+ 
+Index fund is a mutual fund or exchange-traded fund that are made up of stocks or companies performance and performance of a market index such as the S&P 500. Index funds are funds that can track specified basked of underlying investment and passively manaaged with lower fees than actively managed funds becausse they often generate higher investment returns and well-diversifed investments.  
 
 ### What is an Exchange Traded Funds (ETF)?
-#### Exchange Traded Funds (ETF) is a type of investment fund and exchange-traded product. ETFs are traded on stock exchanges. Also, they are similar in many ways to mutual funds, except that ETFs are bought and sold throughout the day on stock exchanges.  
+
+Exchange Traded Funds (ETF) is a type of investment fund and exchange-traded product. ETFs are traded on stock exchanges. Also, they are similar in many ways to mutual funds, except that ETFs are bought and sold throughout the day on stock exchanges.  
 
 ### What is a Mutual Fund?
-#### Mutual Funds are investment strategies that allow investor to pool their money together with other investors to purchase a collection of stocks, bonds, or other securities that might be difficult to recreate on their own.  Mutual funds are a low risk investment.    
+
+Mutual Funds are investment strategies that allow investor to pool their money together with other investors to purchase a collection of stocks, bonds, or other securities that might be difficult to recreate on their own.  Mutual funds are a low risk investment.    
 
 ### What are Hedge Funds?  
-#### Hedge Funds are investment that use pooled funds and are gathered from many high-net-worth individuals. In addition, Hedge funds are more expensive compared to conventional investment funds. They are aggressively managed with aid of the fund manager because they are used in both domestic and international markets, with the aim of generating high returns.  It is important to note that hedge funds are generally only accessible to accredited investors as they require less Securities and Exchange Commission (SEC) regulations than other funds.  
+
+Hedge Funds are investment that use pooled funds and are gathered from many high-net-worth individuals. In addition, Hedge funds are more expensive compared to conventional investment funds. They are aggressively managed with aid of the fund manager because they are used in both domestic and international markets, with the aim of generating high returns.  It is important to note that hedge funds are generally only accessible to accredited investors as they require less Securities and Exchange Commission (SEC) regulations than other funds.  
 
 ### What is Quantitative research?
-#### Quantitative research is the process of collecting and analyzing numerical data to find patterns and averages, make predictions, test causal relationships, and generalize results to wider populations. Also, quantitative research deals with numbers and statistics. Quantitative research can have expressed in numbers and graphs. It is used to test or confirm theories and assumptions.  
+
+Quantitative research is the process of collecting and analyzing numerical data to find patterns and averages, make predictions, test causal relationships, and generalize results to wider populations. Also, quantitative research deals with numbers and statistics. Quantitative research can have expressed in numbers and graphs. It is used to test or confirm theories and assumptions.  
 
 ### What is Qualitative research?
-#### Qualitative research is expressed in words such as interviews with open-ended questions, observations described in words, and literature reviews that explore concepts and theories. The qualitative research is used to understand concepts, thoughts or experiences. Therefore, this type of research enables you to gather in-depth insights on topics that are not well understood.  
+
+Qualitative research is expressed in words such as interviews with open-ended questions, observations described in words, and literature reviews that explore concepts and theories. The qualitative research is used to understand concepts, thoughts or experiences. Therefore, this type of research enables you to gather in-depth insights on topics that are not well understood.  
 
 
 # Prerequistes
