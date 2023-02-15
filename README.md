@@ -99,7 +99,8 @@ Qualitative research is expressed in words such as interviews with open-ended qu
 
 
 # List of Trading Strategies  
-#### Description: There are many various methods used to accomplish different trading strategy; therefore, each with appropriate market environments and risks inherent in the strategy. Trading strategy is a technique of buying and selling in the markets that is based on predefined rules used to make trading decisions.  
+
+There are many various methods used to accomplish different trading strategy; therefore, each with appropriate market environments and risks inherent in the strategy. Trading strategy is a technique of buying and selling in the markets that is based on predefined rules used to make trading decisions.  
 :large_blue_diamond:  
 Trend-following Strategies  
 Algorithmic Trading Strategies  
@@ -122,8 +123,9 @@ Performance Analysis
 Quantitative Analysis  
 
 # List of Portfolio Strategies or Investment Strategies  
-#### Description: Portfolio strategies is an investment method for investors to use their assets to achieve their financial goals. It is a plan that helps you generate the best investment returns.     
-:large_blue_diamond:  
+
+Portfolio strategies is an investment method for investors to use their assets to achieve their financial goals. It is a plan that helps you generate the best investment returns.   
+
 Arbitrage Pricing Theory (APT)  
 Long-term Investment  
 Short-term Investment  
@@ -161,8 +163,9 @@ Obama Stock Portfolio
 Trump Stock Portfolio  
 
 # List Type of Risks  
-#### Description: Risk measures are statistical method to defined the individual stock or together to perform a risk assessment. Risk is a measurement of possible portfolio loss and is a risk factors that determine risk exposure. The most common types of market risk include interest rate risk, equity risk, commodity risk, and currency risk.
-:large_blue_diamond:  
+
+Risk measures are statistical method to defined the individual stock or together to perform a risk assessment. Risk is a measurement of possible portfolio loss and is a risk factors that determine risk exposure. The most common types of market risk include interest rate risk, equity risk, commodity risk, and currency risk.
+
 Commodity Risk  
 Currency Risk  
 Equity Risk  
@@ -178,8 +181,9 @@ Overnight Risk
 Volatility Risk  
 
 # List of Risk-Adjusted Returns Ratios Measurement   
-#### Description: Risk-Adjusted Returns Ratios is an investment's return by measuring how much risk is involved in producing that return.  The rate of return (ROR) is the percentage change in the value of an investment. The risk and the required rate of return are directly related by the simple fact that as risk increases, the required rate of return increases. When risk decreases, the required rate of return decreases.  
-:large_blue_diamond:  
+
+Risk-Adjusted Returns Ratios is an investment's return by measuring how much risk is involved in producing that return.  The rate of return (ROR) is the percentage change in the value of an investment. The risk and the required rate of return are directly related by the simple fact that as risk increases, the required rate of return increases. When risk decreases, the required rate of return decreases.  
+
 Appraisal Ratio  
 Bernardo Ledoit Ratio  
 Burke Ratio  
@@ -200,8 +204,9 @@ Treynor Ratio
 Upside Potential Ratio  
 
 # List of Options Strategies     
-#### Description: Options are contracts that give the buyer the right to buy or sell an amount of some underlying asset at a predetermined price at or before the contract expires. Options Strategies are the simultaneous that is mixed with buying or selling of one or more options that differ in one or more of the options' variables.  
-:large_blue_diamond:  
+
+Options are contracts that give the buyer the right to buy or sell an amount of some underlying asset at a predetermined price at or before the contract expires. Options Strategies are the simultaneous that is mixed with buying or selling of one or more options that differ in one or more of the options' variables.  
+
 Long Call  
 Long Put  
 Short Call  
